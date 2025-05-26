@@ -1,0 +1,6 @@
+{
+  "name": "Video Analyzer",
+  "description": "An interactive video player that lets you summarize, describe scenes, extract text, search for objects, and more.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
